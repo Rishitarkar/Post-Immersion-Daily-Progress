@@ -1,4 +1,4 @@
-Q1)Write a program that checks whether the two input words are homophones from a given homophones list. 
+[Q1)Write a program that checks whether the two input words are homophones from a given homophones list.]https://github.com/Rishitarkar/Post-Immersion-Daily-Progress/blob/master/D1_Q1.java
 Q2)Write a program that detects a homophone in a sentence. 
 Q3)Write a program that generates homophones as a capture to verify the user is not a robot.
 Q4) Write a Java program to count the number of homophone pairs in a given sentence.
