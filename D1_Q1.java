@@ -1,5 +1,5 @@
-package Post_Immersion.DAY1;
-// Q1)Write a program that checks whether the two input words are homophones from a given homophones list.  
+// Q1)Write a program that checks whether the two input words are homophones from a given homophones list. 
+package Post_Immersion.DAY1; 
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Scanner;
